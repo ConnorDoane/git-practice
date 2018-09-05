@@ -3,3 +3,8 @@ Over many a quaint and curious volume of forgotten lore-
 While I nodded, nearly napping, suddenly there came a tapping,
 As of some one gently rapping, rapping at my chamber door.
 new change
+
+NEW FEATURE:
+Over many a quaint and curious volume of forgotten lore-
+While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping, rapping at my chamber door.
